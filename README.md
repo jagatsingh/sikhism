@@ -22,6 +22,9 @@ I found few books which I stored them in books folder
 
 Please let me know if this violates someone copyrights
 
+You can download lots of books from
+http://sikhbookclub.com/
+
 Gurmat camp
 
 Gurmat and summer camps for kids are major events which help to bring kids closer to 
