@@ -10,6 +10,7 @@ Software used in darbar while Keertan in progress
 SikhiToTheMAX
 
 We have made few themes which were customized as per need of darbar.
+Few themes were copied from http://www.sikhitothemax.com/
 
 To use these themes drop them to Sikhi2Max Install folder
 e.g 
