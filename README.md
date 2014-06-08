@@ -21,3 +21,13 @@ Books
 I found few books which I stored them in books folder
 
 Please let me know if this violates someone copyrights
+
+Gurmat camp
+
+Gurmat and summer camps for kids are major events which help to bring kids closer to 
+our roots. Living in western world makes it a bigger challenge.
+
+We plan regular activities to keep kids focused and the camp folder is having 
+stuff related to activities related to kids
+
+It can be regular weekend events of longer ones depending on vacation of the kids
