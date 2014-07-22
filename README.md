@@ -41,6 +41,11 @@ It can be regular weekend events of longer ones depending on vacation of the kid
 On occasion of Gurupurab we made presentations to be shared with sangat. So they 
 have been saved in presentations folder.
 
+## Links
+
+Basics about Sikhism for Kids
+http://www.cyber-link.net/history.htm
+
 ## Contact
 
 For any suggestions / comments please email me at jagatsingh at gmail 
