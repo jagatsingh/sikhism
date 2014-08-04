@@ -1,0 +1,63 @@
+How to use Sikhi to the Max , A short Tutorial
+
+1) Start the software
+
+Once it opens ( takes time first time )
+
+2) Click View > set as Powerpoint
+
+Now we can search
+
+3) Search
+
+In English Select 
+
+First Letters (Anywhere)
+
+Now in English text box enter first words for shabad
+
+e.g
+
+tddtd 
+
+
+for
+
+Tu data dataar tera dita khawna
+
+It will show the matching shabad's , click on the shabad
+
+4) Powerpoint will open and you can navigate through the Shabad from the Navigator.
+
+Use the up and down arrow to go to next line
+or you can click required line with mouse
+
+Once Shabad is over to go back to search scrren , click 
+
+Back to Search Screen
+
+5) Additional setting to make user experience better 
+
+This has to be done everytime new shabad opens
+
+On the powepoint 
+
+Click Animations > Select No Transition 
+
+This will stop showing slide animations as it distracts the sangat
+
+6) Advanced ( To use Sub Shabad search )
+
+While you are in one Shabad and want to go to Shabad in middle
+
+Use Sub Search
+
+In this text box you can use only Punjabi first letters ( English does not work)
+
+Use it in simlar way as we search for english first letters
+
+Click on the required Shabad and it will appear at end of previous shabad.
+
+You can go to any line from new or old shabad by scrolling up and down.
+
+
